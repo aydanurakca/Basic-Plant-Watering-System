@@ -13,3 +13,14 @@ _The heat index (HI) is an index that combines air temperature and relative humi
 * If heat index is higher, the motor starts with speed of 200 and pumps water for a few seconds.
 
 A counter is used to reduce the number of engine starts to avoid over-watering the plant. 
+
+# Circuit Elements
+The basic circuit elements that are used in the Basic Plant Watering System.
+* Breadboard
+* Arduino Uno
+* Jumpers
+* DHT11 Temperature and Humidity sensor
+* 1N4007 Diode
+* NPN Transistor
+* 2 resistors including a 470K ohm and a 1K ohm
+
