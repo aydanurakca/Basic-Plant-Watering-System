@@ -14,6 +14,8 @@ _The heat index (HI) is an index that combines air temperature and relative humi
 
 A counter is used to reduce the number of engine starts to avoid over-watering the plant. 
 
+Each result of the calculations are displayed on the Serial Port Screen. 
+
 # Circuit Elements
 The basic circuit elements that are used in the Basic Plant Watering System.
 * Breadboard
